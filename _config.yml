@@ -3,9 +3,3 @@ description: "Academic Website of Daniel Sánchez Ordoñez"
 theme: jekyll-theme-minimal
 logo: /assets/img/profile.jpg
 show_downloads: false
-
-sass:
-  style: compressed
-
-include:
-  - assets/css
