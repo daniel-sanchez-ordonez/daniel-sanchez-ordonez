@@ -1,0 +1,5 @@
+title: "Daniel Sánchez Ordoñez"
+description: "Academic Website of Daniel Sánchez Ordoñez"
+theme: jekyll-theme-minimal
+logo: /assets/img/profile.jpg   # you can add a picture later
+show_downloads: false
