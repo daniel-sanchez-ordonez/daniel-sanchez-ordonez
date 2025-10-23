@@ -1,5 +1,6 @@
 title: "Daniel Sánchez Ordoñez"
-description: "Academic Website of Daniel Sánchez Ordoñez"
+description: Academic Website of Daniel Sánchez Ordoñez  
+  [📄 CV](/assets/cv.pdf) | [📧 Email](mailto:your@email.com) | [🔗 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 theme: jekyll-theme-minimal
-logo: /assets/img/profile.jpg
-show_downloads: false
+logo: /assets/profile.jpg
+show_downloads: True
