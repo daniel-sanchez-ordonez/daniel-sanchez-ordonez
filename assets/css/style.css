@@ -6,9 +6,3 @@ body {
   color: green;  /* keep text readable */
 }
 
-/* Optional: slightly adjust spacing and fonts */
-main {
-  max-width: 800px;
-  margin: auto;
-  padding: 2rem;
-}
