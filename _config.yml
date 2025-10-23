@@ -3,4 +3,4 @@ description: Academic Website of Daniel Sánchez Ordoñez
   [📄 CV](/assets/cv.pdf) | [📧 Email](mailto:your@email.com) | [🔗 LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN)
 theme: jekyll-theme-minimal
 logo: /assets/profile.jpg
-show_downloads: True
+show_downloads: false
