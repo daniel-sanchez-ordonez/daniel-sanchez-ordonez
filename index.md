@@ -1,31 +1,23 @@
-# Daniel Sánchez Ordoñez
-
-<p align="center">
-  <img src="/assets/profile.jpg" alt="Daniel Sánchez Ordoñez" style="width:220px; border-radius:10px; margin-bottom:10px;">
-</p>
-
-<p align="center" style="margin-top:-10px;">
-  <a href="mailto:your@email.com">📧 Email</a> |
-  <a href="/assets/cv.pdf">📄 CV</a> |
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">🔗 LinkedIn</a> |
-  <a href="https://github.com/daniel-sanchez-ordonez">💻 GitHub</a>
-</p>
+Hello, I am a PhD Candidate in Economics** at the Paris School of Economics (PSE).  
+My research focuses on inequality, economic history, the history of development, and development economics. You can find my [CV here](/assets/cv.pdf). Please reach out at: d.sanchez.ordonez\[at\]psemail\[dot\]eu
 
 ---
 
-Welcome to my **academic website**!  
-I am a researcher interested in [your field here — e.g., machine learning, economics, literature, etc.].
+## Working Papers
 
-## 📚 About Me
-- 🎓 PhD student / researcher at [Your Institution]
-- 🧠 Interests: [Your main research areas]
-- 📫 Contact: [Your email or link]
+"(Un-)Persistent Conflict? The Effects of First Globalization Coffee Boom in Colombia" [Paper](#)
 
-## 🧾 Publications
-- *Title of Paper 1* — Journal / Conference, Year  
-- *Title of Paper 2* — Journal / Conference, Year
+"Land Inequality in the Developing World with" with Luis Bauluz, Yajna Govind, and Filip Novokmet. [Paper](https://www.dropbox.com/scl/fi/bv08nc7on3zqz7esxofe9/Chapter-2.pdf?rlkey=4cqu23kaodr6r3pw94wukziub&e=1&st=nsx2mwpr&dl=0)
 
-## 🌐 Links
-- [Google Scholar](#)
-- [LinkedIn](#)
-- [GitHub](https://github.com/daniel-sanchez-ordonez)
+---
+
+## Publications
+
+"Farm Size and Income Distribution of Latin American Agriculture: New Perspectives on an Old Issue" with Ana María Ibáñez, Margarita Gáfaro, and María Camila Ortiz. *Oxford Open Economics* (2025), Vol. 4, Issue Supplement 1: i148–i166. [Publisher’s Link](https://academic.oup.com/ooec/article/4/Supplement_1/i148/8046465?login=false) | [Paper](https://www.dropbox.com/scl/fi/4if7nzwutqjcxe8zqyjdw/Chapter-3.pdf?rlkey=o9oxkrvwbhrmas98b76fb2vnl&e=1&st=xhbz7vgf&dl=0)
+
+---
+
+## Work In Progress
+
+"Land Reform in the 20th Century" with Rowaida Moshrif*.
+
