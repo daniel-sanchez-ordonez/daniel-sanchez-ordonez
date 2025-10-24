@@ -1,10 +1,8 @@
 title: "Daniel Sánchez Ordoñez"
 description: >
-PhD Candidate, Paris School of Economics<br>
+PhD Candidate, Paris School of Economics
   <a href="/assets/cv.pdf">📄 CV</a> |
   <a href="mailto:d.sanchez.ordonez@psemail.eu">📧 Email</a> 
 logo: /assets/profile.jpeg
 theme: jekyll-theme-minimal
 show_downloads: false
-github:
-  is_project_page: false
