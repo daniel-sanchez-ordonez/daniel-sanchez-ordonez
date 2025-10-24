@@ -10,11 +10,19 @@
   <body>
     <div class="wrapper">
       <header>
+
+        <!-- 🖤 name ABOVE the image and black -->
+        {% if site.title %}
+          <h1 style="color:#000; margin-bottom:0.5em;">{{ site.title }}</h1>
+        {% endif %}
+
         {% if site.logo %}
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        {% if site.description %}
+          <p>{{ site.description }}</p>
+        {% endif %}
 
         {% if site.show_downloads %}
           <ul class="downloads">
@@ -24,18 +32,19 @@
           </ul>
         {% endif %}
 
-        <!-- ❌ Remove or comment out this block -->
+        <!-- ❌ Permanently disable the GitHub profile footer -->
         {% comment %}
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View My GitHub Profile</a></p>
         {% endif %}
         {% endcomment %}
       </header>
+
       <section>
         {{ content }}
       </section>
-      <footer>
-      </footer>
+
+      <footer></footer>
     </div>
   </body>
 </html>
