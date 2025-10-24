@@ -6,3 +6,5 @@ description: >
 logo: /assets/profile.jpeg
 theme: jekyll-theme-minimal
 show_downloads: false
+include:
+  - assets/css
