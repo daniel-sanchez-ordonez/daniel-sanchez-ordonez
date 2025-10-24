@@ -19,5 +19,5 @@ Hello, I am a PhD Candidate in Economics at the Paris School of Economics (PSE).
 
 ## Work In Progress
 
-"Land Reform in the 20th Century" with Rowaida Moshrif*.
+"Land Reform in the 20th Century" with Rowaida Moshrif.
 
