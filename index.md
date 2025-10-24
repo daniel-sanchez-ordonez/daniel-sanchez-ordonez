@@ -6,13 +6,13 @@ Hello, I am a PhD Candidate in Economics at the Paris School of Economics (PSE).
 
 "(Un-)Persistent Conflict? The Effects of First Globalization Coffee Boom in Colombia" [[Paper](#)]
 
-"Land Inequality in the Developing World with" with Luis Bauluz, Yajna Govind, and Filip Novokmet. ][Paper](https://www.dropbox.com/scl/fi/bv08nc7on3zqz7esxofe9/Chapter-2.pdf?rlkey=4cqu23kaodr6r3pw94wukziub&e=1&st=nsx2mwpr&dl=0)]
+"Land Inequality in the Developing World" with with Luis Bauluz, Yajna Govind, and Filip Novokmet. [[Paper](https://www.dropbox.com/scl/fi/bv08nc7on3zqz7esxofe9/Chapter-2.pdf?rlkey=4cqu23kaodr6r3pw94wukziub&e=1&st=nsx2mwpr&dl=0)]
 
 ---
 
 ## Publications
 
-"Farm Size and Income Distribution of Latin American Agriculture: New Perspectives on an Old Issue" with Ana María Ibáñez, Margarita Gáfaro, and María Camila Ortiz. *Oxford Open Economics* (2025), Vol. 4, Issue Supplement 1: i148–i166. 
+"Farm Size and Income Distribution of Latin American Agriculture: New Perspectives on an Old Issue" with Ana María Ibáñez, Margarita Gáfaro, and María Camila Ortiz. *Oxford Open Economics* (2025), Vol. 4: i148–i166. 
 [[Publisher’s Link](https://academic.oup.com/ooec/article/4/Supplement_1/i148/8046465?login=false)] | [[Paper](https://www.dropbox.com/scl/fi/4if7nzwutqjcxe8zqyjdw/Chapter-3.pdf?rlkey=o9oxkrvwbhrmas98b76fb2vnl&e=1&st=xhbz7vgf&dl=0)]
 
 ---
