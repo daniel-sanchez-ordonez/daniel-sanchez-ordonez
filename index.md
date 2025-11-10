@@ -6,7 +6,7 @@ Hello, I am a PhD Candidate in Economics at the Paris School of Economics (PSE).
 
 ## Working Papers
 
-"(Un-)Persistent Conflict? The Effects of First Globalization Coffee Boom in Colombia" [[Paper](#)]
+"(Un-)Persistent Conflict? The Effects of First Globalization Coffee Boom in Colombia" [[Paper](https://www.dropbox.com/scl/fi/3qi4xo9gavvsbrgnwwmu7/Coffee_Conflict_SANCHEZ_ORDONEZ.pdf?rlkey=cr3o21urhkn1sb653u1xhzwxd&st=fdszhtox&dl=0)]
 
 "Land Inequality in the Developing World" with Luis Bauluz, Yajna Govind, and Filip Novokmet. [[Paper](https://www.dropbox.com/scl/fi/bv08nc7on3zqz7esxofe9/Chapter-2.pdf?rlkey=4cqu23kaodr6r3pw94wukziub&e=1&st=nsx2mwpr&dl=0)]
 
