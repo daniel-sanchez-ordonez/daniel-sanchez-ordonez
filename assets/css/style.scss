@@ -50,9 +50,9 @@ header p {
 }
 
 .wrapper {
-  max-width: 1400px;
+  max-width: 1400px !important;
 }
 section {
-  flex: 2.2;   /* right column (your text) gets MORE space */
+  flex: 2.2 !important;
 }
 
