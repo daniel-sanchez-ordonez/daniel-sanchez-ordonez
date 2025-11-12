@@ -6,7 +6,7 @@
 
 body {
   font-family: "EB Garamond", Garamond, "Times New Roman", serif !important;
-  font-size: 17px;
+  font-size: 22px;
   line-height: 1.6;
   color: #000;
   /* ✨ elegant cream background -- before there was nothing here and color of letters was #111. first cream i tried was f7f2e8*/
@@ -42,7 +42,7 @@ header img {
 }
 
 header p {
-  font-size: 0.85em;
+  font-size: 1.05em; //was .85
   line-height: 1.4;
   text-align: center;
   margin-top: 0.5em;
