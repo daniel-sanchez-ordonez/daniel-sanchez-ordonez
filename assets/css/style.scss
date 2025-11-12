@@ -48,3 +48,11 @@ header p {
   margin-top: 0.5em;
   color: #000;
 }
+
+.wrapper {
+  max-width: 1200px;
+}
+section {
+  flex: 2.2;   /* right column (your text) gets MORE space */
+}
+
